@@ -2,7 +2,6 @@
 
 ![Preview 2](/preview2.png)
 
+<h3> Link Deploy</h3>
 
-# link deployment
-
-# https://646cdb67c381692f6b604e39--fabulous-kringle-51dcfc.netlify.app/
+# https://curriculum-vitae-jmgo.netlify.app/
